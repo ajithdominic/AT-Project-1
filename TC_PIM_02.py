@@ -1,4 +1,4 @@
-# TC_PIM_03 : Update Existing Employee Details in OrangeHRM Portal's PIM Module - Firefox Browser
+# TC_PIM_02 : Update Existing Employee Details in OrangeHRM Portal's PIM Module - Firefox Browser
 
 from selenium import webdriver
 from selenium.webdriver.firefox.service import Service
